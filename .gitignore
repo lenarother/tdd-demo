@@ -1,0 +1,27 @@
+*.py[cod]
+
+# Packages
+__pycache__
+
+# Unit test / coverage reports
+.coverage
+.tox
+htmlcov/
+nosetests.xml
+
+# Project
+venv
+venv3
+env
+
+# py.test cache
+.cache/
+.pytest_cache/
+
+# OS X
+.DS_Store
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
